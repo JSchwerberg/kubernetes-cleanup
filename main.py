@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-import json
 from kubernetes import config, client
 import os
 import pytz
